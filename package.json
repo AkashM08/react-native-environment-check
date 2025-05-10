@@ -1,0 +1,22 @@
+{
+  "name": "react-native-environment-check",
+  "version": "1.0.0",
+  "description": "Check if React Native environment is properly set up on Windows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashM08/react-native-environment-check.git"
+  },
+  "keywords": [
+    "React-Native", "React Native Environment Check", "React Native setup checker"
+  ],
+  "author": "Akash Muttoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkashM08/react-native-environment-check/issues"
+  },
+  "homepage": "https://github.com/AkashM08/react-native-environment-check#readme"
+}
